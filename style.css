@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: Center;
+}
+input{
+	border-radius:7px;
+	}
+button{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: Center;
+  color:#f2f2f2;
+ border-radius:7px;
+ background: linear-gradient(#18b495,#16a085);
+}
